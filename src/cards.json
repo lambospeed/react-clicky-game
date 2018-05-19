@@ -1,0 +1,62 @@
+[
+    {
+        "breed": "card1",
+        "image": "/img/image-card1.jpeg"
+    },
+    {
+        "breed": "card2",
+        "image": "/img/image-card2.jpeg"
+    },
+    {
+        "breed": "card3",
+        "image": "/img/image-card3.jpeg"
+    },
+    {
+        "breed": "card4",
+        "image": "/img/image-card4.jpeg"
+    },
+    {
+        "breed": "card5",
+        "image": "/img/image-card5.jpeg"
+    },
+    {
+        "breed": "card6",
+        "image": "/img/image-card6.jpeg"
+    },
+    {
+        "breed": "card7",
+        "image": "/img/image-card7.jpeg"
+    },
+    {
+        "breed": "card8",
+        "image": "/img/image-card8.jpeg"
+    },
+    {
+        "breed": "card9",
+        "image": "/img/image-card9.jpeg"
+    },
+    {
+        "breed": "card10",
+        "image": "/img/image-card10.jpeg"
+    },
+    {
+        "breed": "card11",
+        "image": "/img/image-card11.jpeg"
+    },
+    {
+        "breed": "card12",
+        "image": "/img/image-card12.jpeg"
+    },
+    {
+        "breed": "card13",
+        "image": "/img/image-card13.jpeg"
+    },
+    {
+        "breed": "card14",
+        "image": "/img/image-card14.jpeg"
+    },
+    {
+        "breed": "card15",
+        "image": "/img/image-card15.jpeg"
+    }
+]

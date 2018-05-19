@@ -1,10 +1,10 @@
 import React from "react";
-import "./DogCard.css";
+import "./ClickCard.css";
 
-const DogCard = props => (
+const ClickCard = props => (
     <div className="card">
         <div className="img-container">
-            <a onClick={() => props.selectDog(props.breed)} 
+            <a onClick={() => props.selectCard(props.breed)} 
                 className={props.curScore === 0 ? "style_prevu_kit style_prevu_kit_ex" : "style_prevu_kit"}
             >
                 <img alt={props.breed} src={props.image} />
@@ -13,4 +13,4 @@ const DogCard = props => (
     </div>
 );
 
-export default DogCard;
+export default ClickCard;

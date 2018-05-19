@@ -1,5 +1,5 @@
 .titlebox {
-    background-image: url('/img/dogs_bg_denim.jpg');
+    background-image: url('/img/title-bg.jpg');
     background-size: 100%;
     background-repeat: no-repeat;
     width: 100%;
@@ -8,7 +8,8 @@
     vertical-align: center;
     /* opacity: 0.3; */
     /* filter: alpha(opacity=30); */
-    font-family: 'Holtwood One SC', serif;
+    font-family: "Comic Sans MS", sans-serif;
+    font-weight: bolder;
     color: #fff;
     text-shadow: 0 0 5px #000;
     margin-bottom: 20px;
@@ -16,10 +17,10 @@
 
 .titlebox h1 {
     margin-top: 90px;
-    font-size: 3.5em;
+    font-size: 5em;
 }
 
 .titlebox p {
-    font-size: 1.8em;
+    font-size: 2em;
 }
 
